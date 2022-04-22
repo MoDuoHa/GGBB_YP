@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "YLMFENG-5JO5AOC",
+    "children" : [ {
+      "name" : "16288-MainThread",
+      "children" : [ {
+        "name" : "test_1_login[udata0]",
+        "uid" : "bffa1b1269440e1b",
+        "parentUid" : "e66c1fa2085a2ef07a166075bf7e10a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649320747608,
+          "stop" : 1649320750260,
+          "duration" : 2652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': 'admin', 'password': 123}" ]
+      }, {
+        "name" : "test_2_search[utxt0]",
+        "uid" : "9b5efef9b05f438a",
+        "parentUid" : "e66c1fa2085a2ef07a166075bf7e10a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649320750262,
+          "stop" : 1649320753680,
+          "duration" : 3418
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'txt': '毕润'}" ]
+      } ],
+      "uid" : "e66c1fa2085a2ef07a166075bf7e10a1"
+    } ],
+    "uid" : "ecfe215c3eb86af96ebae6f5f218c68a"
+  } ]
+}
