@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_1_login[udata0]",
+    "uid" : "bffa1b1269440e1b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649320747608,
+      "stop" : 1649320750260,
+      "duration" : 2652
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'username': 'admin', 'password': 123}" ]
+  }, {
+    "name" : "test_2_search[utxt0]",
+    "uid" : "9b5efef9b05f438a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649320750262,
+      "stop" : 1649320753680,
+      "duration" : 3418
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'txt': '毕润'}" ]
+  } ]
+}
